@@ -1,16 +1,59 @@
-## Hi there 👋
+# Michael Adesanya
+Junior Data Analyst | Power BI | Excel | Data Visualization | Business Intelligence
 
-<!--
-**Mikel44-N/Mikel44-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analyst focused on turning raw data into clear insights using Excel, Power BI, and data visualization tools. I build dashboards, analyze datasets, and develop reporting solutions that support business decision-making.
 
-Here are some ideas to get you started:
+## Core Tools
+• Power BI (Desktop & Service)
+• Microsoft Excel
+• Google Sheets
+• Power Query
+• DAX
+• Data Modeling
+• SQL (Currently Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Power BI Sales & Customer Analytics Dashboard
+Interactive sales dashboard built using Power BI with DAX measures, KPI cards, maps, and advanced analytics visuals.
+
+Project Repository  
+https://github.com/Mikel44-N/AdventureWorks-PowerBI-Dashboard
+
+---
+
+### Power BI Service Inspection Analytics Platform
+Cloud analytics deployment using Power BI Service including dataflows, semantic models, gateway configuration, and row-level security.
+
+Project Repository  
+https://github.com/Mikel44-N/Maven-Inspection-PowerBI-Service
+
+---
+
+### Excel Data Modeling & Analysis
+Retail dataset analysis using Power Query, Power Pivot, and Pivot Tables to build a structured reporting model.
+
+Project Repository  
+(Add Excel project repo link)
+
+---
+
+### Marketing Campaign Analysis (Google Sheets)
+Pivot table analysis of marketing campaign performance including impressions, conversions, and cost metrics.
+
+Project Repository  
+(Add Google Sheets project repo link)
+
+---
+
+## Currently Learning
+SQL for data querying and database analysis.
+
+---
+
+## Connect With Me
+LinkedIn  
+https://www.linkedin.com/in/michael-adesanya-468a64177/
+
+GitHub  
+https://github.com/Mikel44-N
