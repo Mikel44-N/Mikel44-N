@@ -15,7 +15,7 @@ I am a data analyst focused on turning raw data into clear insights using Excel,
 ## Featured Projects
 
 ### Power BI Sales & Customer Analytics Dashboard
-![Power BI Dashboard](AdventureWorks-PowerBI-Dashboard/Executive_Dashboard_for_Power_BI_desktop.png)
+![Power BI Dashboard](Executive_Dashboard_for_Power_BI_desktop.png)
 Interactive sales dashboard built using Power BI with DAX measures, KPI cards, maps, and advanced analytics visuals.
 
 Project Repository  
@@ -24,7 +24,7 @@ https://github.com/Mikel44-N/AdventureWorks-PowerBI-Dashboard
 ---
 
 ### Power BI Service Inspection Analytics Platform
-![Inspection Dashboard](Maven-Inspection-PowerBI-Service/Dashboard.png)
+![Inspection Dashboard](Dashboard.png)
 Cloud analytics deployment using Power BI Service including dataflows, semantic models, gateway configuration, and row-level security.
 
 Project Repository  
@@ -33,7 +33,7 @@ https://github.com/Mikel44-N/Maven-Inspection-PowerBI-Service
 ---
 
 ### Excel Data Modeling & Analysis
-![Excel Dashboard](Excel-FoodMart-Data-Model/Foodmart.png)
+![Excel Dashboard](Foodmart.png)
 Retail dataset analysis using Power Query, Power Pivot, and Pivot Tables to build a structured reporting model.
 
 Project Repository  
@@ -42,7 +42,7 @@ https://github.com/Mikel44-N/excel-power-query-power-pivot-dax-project.git
 ---
 
 ### Marketing Campaign Analysis (Google Sheets)
-![Pivot Analysis](Marketing-Campaign-Analysis/Marketing_Campaign_Analysis.png)
+![Marketing Campaign Analysis](Marketing_Campaign_Analysis.png)
 Pivot table analysis of marketing campaign performance including impressions, conversions, and cost metrics.
 
 Project Repository  
