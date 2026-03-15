@@ -42,7 +42,7 @@ https://github.com/Mikel44-N/excel-power-query-power-pivot-dax-project.git
 Pivot table analysis of marketing campaign performance including impressions, conversions, and cost metrics.
 
 Project Repository  
-(Add Google Sheets project repo link)
+https://github.com/Mikel44-N/Marketing-Campaign-Analysis.git
 
 ---
 
