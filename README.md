@@ -15,7 +15,7 @@ I am a data analyst focused on turning raw data into clear insights using Excel,
 ## Featured Projects
 
 ### Power BI Sales & Customer Analytics Dashboard
-![Power BI Dashboard](AdventureWorks-PowerBI-Dashboard/executive_dashboard_for_Power_BI_desktop.png)
+![Power BI Dashboard](AdventureWorks-PowerBI-Dashboard/Executive_Dashboard_for_Power_BI_desktop.png)
 Interactive sales dashboard built using Power BI with DAX measures, KPI cards, maps, and advanced analytics visuals.
 
 Project Repository  
