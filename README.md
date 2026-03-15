@@ -34,7 +34,7 @@ https://github.com/Mikel44-N/Maven-Inspection-PowerBI-Service
 Retail dataset analysis using Power Query, Power Pivot, and Pivot Tables to build a structured reporting model.
 
 Project Repository  
-(Add Excel project repo link)
+https://github.com/Mikel44-N/excel-power-query-power-pivot-dax-project.git
 
 ---
 
